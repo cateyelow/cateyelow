@@ -7,6 +7,7 @@
 *I can do everything!*
 
 [![Website](https://img.shields.io/badge/compl.co.kr-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://compl.co.kr)
+[![textmachine.org](https://img.shields.io/badge/textmachine.org-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://textmachine.org/en)
 
 </div>
 
@@ -62,6 +63,7 @@
 | **Real Estate** | Property valuation & platform services |
 | **Mobile Apps** | Flutter apps for productivity and more |
 | **CRM & Admin** | Business management tools |
+| **[textmachine.org](https://textmachine.org/en)** | 151 browser-only text and classical-cipher tools, in 11 languages |
 
 ---
 
